@@ -3,4 +3,4 @@ Temporal dynamics-conditioned query framework for longitudinal progression predi
 
 MICCAI 2026 accepted!
 
-(code will be updated soon)
+(code will be updated soon) 
